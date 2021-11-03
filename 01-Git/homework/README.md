@@ -33,7 +33,7 @@ Dentro de nuestra terminal podemos: revisar nuestra estructura de archivos, aña
 
 "Touch" creará un nuevo archivo.
 ```bash
-  $ touch [nombre del archivo]
+  $ touch [nombre del archivo] ..........NO ACEPTA
 ```
 
 "Remove": Elimina permanentemente un archivo. ¡CUIDADO! Esto traspasa cualquier "papelera de reciclaje" que exista en el sistema y elimina los archivos PERMANENTEMENTE. Como nota, esto no eliminará carpetas, necesitamos un comando especial para eso que aprenderemos más adelante.
